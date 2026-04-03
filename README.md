@@ -29,7 +29,7 @@ A retro pixel art infinite runner built with React + HTML5 Canvas. No game engin
 ## Getting Started
 
 ```bash
-git clone https://github.com/yourusername/pixel-runner.git
+git clone https://github.com/xxVertex/pixel-runner.git
 cd pixel-runner
 npm install
 npm start
